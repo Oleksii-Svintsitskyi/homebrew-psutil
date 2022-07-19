@@ -1,1 +1,1 @@
-Copy of https://github.com/giampaolo/psutil version 5.9.1
+Copy of https://github.com/ronaldoussoren/pyobjc version 8.5
